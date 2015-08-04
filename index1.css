@@ -1,0 +1,26 @@
+
+      p {
+        text-align: center;
+        color: yellow;
+      }
+      
+      
+
+      h2 { 
+        color:yellow;
+      }
+      .gunman { 
+        position:absolute;
+        top:55%;
+        left:0;
+      }
+      .tournament{
+        position:absolute;
+        top:63%;
+        right:0;
+
+      }
+      h2:hover {
+        color: red;
+      }
+   

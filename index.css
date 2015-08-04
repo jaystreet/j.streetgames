@@ -1,0 +1,39 @@
+
+    body {
+      text-align: center;
+      background: url("http://cdn.playbuzz.com/cdn/6f37b7ee-ff84-4d2a-8084-d613b9ff9e38/23d2bdb3-ae78-40a4-b4e1-fbd17ce2395b.jpg");
+      background-size: cover;
+      background-position: center;
+      font-family: arial;
+    }
+    p {
+      font-size: 25px;
+      /*background: black;*/
+      color: white;
+      text-shadow: 3px 3px #000000;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color:white;
+    }
+    a:link{
+      color:yellow;
+      text-decoration:none;
+
+    }
+
+    a:visited{
+      color:yellow;
+    }
+    @media screen and (max-width: 400px){
+      body{
+      background: url("http://cdn.playbuzz.com/cdn/6f37b7ee-ff84-4d2a-8084-d613b9ff9e38/23d2bdb3-ae78-40a4-b4e1-fbd17ce2395b.jpg");
+      background-size:auto 70% ;}
+
+    }
+  
